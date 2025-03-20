@@ -1,0 +1,6 @@
+Console.WriteLine("List of household items are:");
+Console.WriteLine("Bulb");
+Console.WriteLine("Door");
+Console.WriteLine("Windows");
+Console.WriteLine("Bed");
+Console.WriteLine("Table");
